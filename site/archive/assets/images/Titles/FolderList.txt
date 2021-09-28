@@ -1,0 +1,44 @@
+**Accounts Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Accounts-Dark.png`
+**Accounts Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Accounts-Light.png`
+
+**Administration Application:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Application-Title.png`
+**Administration Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Administration-Dark.png`
+**Administration Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Administration-Light.png`
+
+**Backend Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Backend-Dark.png`
+**Backend Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Backend-Light.png`
+
+**CBTTF Application:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-CBTTF-Application-Title.png`
+**CBTTF Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-CBTTF-Dark.png`
+**CBTTF Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-CBTTF-Light.png`
+
+**Discord Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Discord-Dark.png`
+**Discord Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Discord-Light.png`
+
+**Docs Dark:** ``https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Docs-Dark.png`
+**Docs Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Docs-Light.png`
+
+**Jellyfin Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Jellyfin-Dark.png`
+**Jellyfin Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Jellyfin-Light.png`
+
+**LibreSpeed Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-LibreSpeed-Dark.png`
+**LibreSpeed Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-LibreSpeed-Light.png`
+
+**Ombi Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Ombi-Dark.png`
+**Ombi Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Ombi-Light.png`
+**Ombi Site:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Ombi-Site-Title.png`
+
+**Organizr Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Organizr-Dark.png`
+**Organizr Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Organizr-Light.png`
+
+**Status Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Status-Dark.png`
+**Status Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Status-Light.png`
+
+**Logo Google:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Google-Logo.png`
+**Logo Title Motto Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Logo-Title-Motto-Dark.png`
+**Logo Title Motto Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Logo-Title-Motto-Light.png`
+**Logo Title:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Logo-Title.png`
+**Title Motto Dark:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Title-Motto-Dark.png`
+**Title Motto Light:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Title-Motto-Light.png`
+**Title:** `https://www.cyberflix.io/archive/assets/images/Titles/Cyberflix-Title.png`
+
