@@ -263,3 +263,8 @@ a:hover {
     bottom: 0px;
   }
 }
+
+
+ul {
+  list-style-type: none;
+}

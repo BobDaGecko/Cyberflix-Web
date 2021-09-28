@@ -257,3 +257,8 @@ a:hover {
     font-size: 72.5%;
   }
 }
+
+
+ul {
+  list-style-type: none;
+}
